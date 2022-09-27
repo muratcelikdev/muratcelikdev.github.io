@@ -56,7 +56,7 @@ export const Styles = createGlobalStyle<Omit<AppTheme, 'handleChangeTheme'>>`
         font-family: 'PlusJakarta';
     }
 
-    #root {
+    #__next {
         display: flex;
         flex-direction: column;
         min-height: 100vh;
