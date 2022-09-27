@@ -18,6 +18,8 @@ export const colors: Partial<Record<ThemeType, Palette>> = {
     },
     blue: {
       default: '#6246EA',
+      light: '#9181db',
+      dark: '#4528d4',
     },
   },
 };

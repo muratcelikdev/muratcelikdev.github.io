@@ -11,6 +11,7 @@ interface ColorTone {
   primary?: string;
   secondary?: string;
   dark?: string;
+  light?: string;
 }
 
 interface Palette {
